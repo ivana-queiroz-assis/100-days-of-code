@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log - Ivana Assis
 
-### Day 2: December 28, Monday
+### Day 1: December 28, Monday
 
 **Today's Progress**: I've solved a simple regex.
 
