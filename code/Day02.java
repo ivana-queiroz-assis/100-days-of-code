@@ -12,6 +12,7 @@ class Solution {
         }
         return positions;
     }
+
 }
 
     public static void main(String[] args) {
