@@ -10,6 +10,12 @@
 
 **Today's Progress**: I've solved a simple leetcode problem.
 
-1. Dentro da pasta code -> Day02
+1. Two sum -> Day02
 
 
+
+### Day 3: December 30, Wednesday
+
+**Today's Progress**: I've solved a simple leetcode problem.
+
+1. Problem 1323 - Maximum 69 number -> Day03
