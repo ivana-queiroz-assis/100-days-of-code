@@ -19,3 +19,10 @@
 **Today's Progress**: I've solved a simple leetcode problem.
 
 1. Problem 1323 - Maximum 69 number -> Day03
+
+
+### Day 4: December 31, Thursday
+
+**Today's Progress**: I've solved a simple leetcode problem.
+
+Problem 1342. Number of Steps to Reduce a Number to Zero -> Day04
