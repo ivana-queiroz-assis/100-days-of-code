@@ -26,3 +26,9 @@
 **Today's Progress**: I've solved a simple leetcode problem.
 
 Problem 1342. Number of Steps to Reduce a Number to Zero -> Day04
+
+### Day 5: December 02, Saturday
+
+**Today's Progress**: I've solved a simple leetcode problem.
+
+Problem 389. Find the Difference> Day05
