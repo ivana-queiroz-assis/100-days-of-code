@@ -13,7 +13,6 @@
 1. Two sum -> Day02
 
 
-
 ### Day 3: December 30, Wednesday
 
 **Today's Progress**: I've solved a simple leetcode problem.
@@ -32,3 +31,9 @@ Problem 1342. Number of Steps to Reduce a Number to Zero -> Day04
 **Today's Progress**: I've solved a simple leetcode problem.
 
 Problem 389. Find the Difference> Day05
+
+### Day 6: December 03, Sunday
+
+**Today's Progress**: I've solved a simple leetcode problem.
+
+Problem 53. Maximum Subarray> Day06
