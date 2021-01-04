@@ -37,3 +37,13 @@ Problem 389. Find the Difference> Day05
 **Today's Progress**: I've solved a simple leetcode problem.
 
 Problem 53. Maximum Subarray> Day06
+
+### Day 7: December 04, Monday
+
+**Today's Progress**: Leetcode problem with complexity analysis.
+
+Problem 628. Maximum Product of Three Numbers> Day07
+
+Given an integer array nums, find three numbers whose product is maximum and return the maximum product.
+
+
